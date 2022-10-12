@@ -2,6 +2,10 @@
 *** 
 I am a Web developer who graduated from Le wagons web development bootcamp in 2022. I am from Melbourne, Australia but I have been enjoying life in Tokyo for the last few years.
 
+My programming portfolio <a> https://hamishliu-portfolio.netlify.app/ <a>
+
+High level of experience building web applicatons on Ruby on Rails.
+
 I love building fun features for apps that make things easy and fun! 
 
 I have a passion for coding and I'm constantly looing to learn and grow my skills.
